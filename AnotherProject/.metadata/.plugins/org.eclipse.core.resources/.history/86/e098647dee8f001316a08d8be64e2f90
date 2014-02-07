@@ -2,9 +2,9 @@ package com.server;
 
 public class MyServer {
 
-	public synchronized void myFunction(){
-		System.out.println("synchronization function test");
-	}
+	/**
+	 * @param args
+	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
